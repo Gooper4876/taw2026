@@ -2,6 +2,7 @@
 (link do szablonu strony)
 # Planned features:
 ## Main page:
+- some animated events like links sliding in or wobbling page, possibly object movement based on mouse position
 - links to other pages
 - links to my social medias
 - Hand drawn design
