@@ -1,5 +1,5 @@
 # My website
-[Blueprint](https://www.figma.com/design/v4mw02h98RHlhjSMQzXwik/My-page?node-id=0-1&t=XHf3FXRR9Unn3Wbn-1)
+[Blueprint](https://www.figma.com/proto/v4mw02h98RHlhjSMQzXwik/My-page?node-id=1-4&t=TxqjoGRylEvJ9QmX-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 # Planned features:
 ## Main page:
 - some animated events like links sliding in or wobbling page, possibly object movement based on mouse position
