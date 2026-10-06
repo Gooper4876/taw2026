@@ -1,5 +1,5 @@
-# My website(?)
-(link do szablonu strony)
+# My website
+[Blueprint](https://www.figma.com/design/v4mw02h98RHlhjSMQzXwik/My-page?node-id=0-1&t=XHf3FXRR9Unn3Wbn-1)
 # Planned features:
 ## Main page:
 - some animated events like links sliding in or wobbling page, possibly object movement based on mouse position
