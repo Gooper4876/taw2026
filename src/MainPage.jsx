@@ -1,5 +1,7 @@
 import './MainPage.css';
 import feker from './assets/images/source-image.png';
+import circle from './assets/images/extracircle.svg';
+import circle1 from './assets/images/extracircle-1.svg';
 
 const MainPage = () => {
   	return (
