@@ -107,7 +107,7 @@
 .link2 {
   	position: absolute;
   	top: 320px;
-  	left: calc(100% - min(76px, 7vw) - 3vw);
+  	right: 0;
   	width: min(76px, 7vw);
   	height: 56px;
   	flex-shrink: 0;
@@ -121,10 +121,19 @@
   	flex-shrink: 0;
 }
 
+.link2 .platform2,
+.link3 .platform2,
+.link4 .platform2,
+.link5 .platform2 {
+	left: auto;
+	right: 0;
+	white-space: nowrap;
+}
+
 .link3 {
   	position: absolute;
   	top: 410px;
-  	left: calc(100% - min(76px, 7vw) - 3vw);
+  	right: 0;
   	width: min(76px, 7vw);
   	height: 56px;
   	flex-shrink: 0;
@@ -133,7 +142,7 @@
 .link4 {
   	position: absolute;
   	top: 500px;
-  	left: calc(100% - min(76px, 7vw) - 3vw);
+  	right: 0;
   	width: min(76px, 7vw);
   	height: 56px;
   	flex-shrink: 0;
@@ -141,8 +150,8 @@
 
 .link5 {
   	position: absolute;
-  	top: 590px;
-  	left: calc(100% - min(76px, 7vw) - 3vw);
+  	top: 610px;
+  	right: 0;
   	width: min(76px, 7vw);
   	height: 56px;
   	flex-shrink: 0;
@@ -150,7 +159,7 @@
 
 .link6 {
   	position: absolute;
-  	top: 410px;
+  	top: 430px;
   	left: 72px;
   	width: min(76px, 7vw);
   	height: 56px;
@@ -160,7 +169,7 @@
 
 .link7 {
   	position: absolute;
-  	top: 500px;
+  	top: 520px;
   	left: 72px;
   	width: min(76px, 7vw);
   	height: 56px;
@@ -170,7 +179,7 @@
 
 .link8 {
   	position: absolute;
-  	top: 590px;
+  	top: 610px;
   	left: 72px;
   	width: min(76px, 7vw);
   	height: 56px;
